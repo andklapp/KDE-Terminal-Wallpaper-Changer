@@ -1,4 +1,0 @@
-#!/bin/bash
-
-sed -i "s/Wallpapers\/[[:alpha:]]*.*/Wallpapers\/$1\")}\'/" ~/bin/ksetwallpaper
-~/bin/ksetwallpaper
